@@ -33,7 +33,7 @@ int main(int argc, char **argv) {
 }
 
 /**
- * it loads file data inside list data structure
+ * it loads file's data inside list data structure
  * @param fileName
  * @param head
  * @return
